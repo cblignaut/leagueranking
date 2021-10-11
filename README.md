@@ -2,7 +2,7 @@
 **A League ranking application**
 ---
 
-Winning team get 3 points for each game, drawing teams get 1 point and losing team get 0 points.
+Winning teams get 3 points for each game, drawing teams get 1 point and a losing team get 0 points.
 
 ## Requirements
 
