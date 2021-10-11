@@ -1,6 +1,5 @@
 import fileinput
 import re
-from collections import defaultdict
 
 
 class League:
