@@ -8,7 +8,7 @@ Winning team get 3 points for each game, drawing teams get 1 point and losing te
 
 Tested with:
 
-* Python: 3.6, 3.7, 3.8, 3.9, 3.10
+* Python: 3.6, 3.7, 3.8, 3.9
 
 ## Installation
 
@@ -29,7 +29,7 @@ Tested with:
 
 ## Test
 
-1. Install all python versions: 3.6, 3.7, 3.8, 3.9, 3.10
+1. Install all python versions: 3.6, 3.7, 3.8, 3.9
 2. Install test requirements with: `pip install -r requirements_test.txt`
 3. Run tests with `tox`
 
