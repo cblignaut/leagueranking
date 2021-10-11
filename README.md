@@ -13,7 +13,7 @@ Tested with:
 ## Installation
 
 1. Install python 3.6+.
-2. git clone git@github.com:cblignaut/leagueranking.git & git pull
+2. git clone git@github.com:cblignaut/leagueranking.git
 3. Go to root leagueranking directory
 
 ## Usage
